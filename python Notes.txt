@@ -1,0 +1,45 @@
+What is Python?
+Python is a high level general purpose programming language
+
+Programming->program->set of instructions used to perform a particular operation->+,-,/,*->calculator
+
+High Level  types of languages
+1.low level - code - complex - assembly 8086
+2.mid level - easier than low level -  c++
+3. high level - Python 
+
+General Purpose
+1.Applications - desktop apps , mobile apps, web apps
+2.game development
+3.Automation Testing
+4.Ethical Hacking
+5. Data Analysis
+6. AI
+
+History :
+1991 - Guido van Rossum - Fav Circus Show- Monty;’s Python Flying Circus
+
+Installation:
+1. goto python.org
+
+Features:
+1.high level
+2.general purpose
+3.dynamically typed programming
+4.Open source - freely available
+5.python has its own set of libraries/modules/package
+
+data analysis
+graph - matplotlib
+game - pygame
+———————————————————
+Variables (vary-changeable)& constants
+Naming Conventions:
+variable name must not be started/contains with/ number or any other special character other than _
+————————————————
+Data Types:
+number - int , float(decimal),complex number(a+bi)
+String - “hey….”
+Boolean - True/False
+None - Blank
+
