@@ -1,0 +1,31 @@
+Q1. Write a program to print first 10 numbers of fibonacci Series
+0 1 1 2 3 5 8 13……
+
+Q2.Write a program to remove duplicates from 
+String.
+String : “aabbccddee”
+Output : “abcde”
+
+Q3.Write a program to find the occurance of each character in a string
+String : “aabbaaccd”
+output:
+a = 4
+b = 2
+c = 2
+d = 1
+
+Q4.Write a program to print the following pattern by just using single for loop
+a.
+*
+**
+***
+****
+*****
+b.
+    *
+   **
+  ***
+ ****
+*****
+
+
